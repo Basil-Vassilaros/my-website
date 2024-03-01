@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<morph_config>
+  <heads>
+    <human_male>
+      <resource name="HM_CPS_P01.mop"></resource>
+      <resource name="HM_CPS_P02.mop"></resource>
+      <resource name="HM_CPS_P03.mop"></resource>
+      <resource name="HM_CPS_P04.mop"></resource>
+      <resource name="HM_CPS_P05.mop"></resource>
+      <resource name="HM_CPS_P06.mop"></resource>
+      <resource name="HM_CPS_P07.mop"></resource>
+      <resource name="HM_CPS_P08.mop"></resource>
+      <resource name="HM_PCC_B01.mop"></resource>
+    </human_male>
+    <human_female>
+      <resource name="HF_CPS_P01.mop"></resource>
+      <resource name="HF_CPS_P02.mop"></resource>
+      <resource name="HF_CPS_P03.mop"></resource>
+      <resource name="HF_CPS_P04.mop"></resource>
+      <resource name="HF_CPS_P05.mop"></resource>
+      <resource name="HF_CPS_P06.mop"></resource>
+      <resource name="HF_CPS_P07.mop"></resource>
+      <resource name="HF_CPS_P08.mop"></resource>
+      <resource name="HF_PCC_B01.mop"></resource>
+    </human_female>
+    <dwarf_male>
+      <resource name="DM_CPS_P01.mop"></resource>
+      <resource name="DM_CPS_P02.mop"></resource>
+      <resource name="DM_CPS_P03.mop"></resource>
+      <resource name="DM_CPS_P04.mop"></resource>
+      <resource name="DM_CPS_P05.mop"></resource>
+      <resource name="DM_CPS_P06.mop"></resource>
+      <resource name="DM_CPS_P07.mop"></resource>
+      <resource name="DM_CPS_P08.mop"></resource>
+      <resource name="DM_PCC_B01.mop"></resource>
+    </dwarf_male>
+    <dwarf_female>
+      <resource name="DF_CPS_P01.mop"></resource>
+      <resource name="DF_CPS_P02.mop"></resource>
+      <resource name="DF_CPS_P03.mop"></resource>
+      <resource name="DF_CPS_P04.mop"></resource>
+      <resource name="DF_CPS_P05.mop"></resource>
+      <resource name="DF_CPS_P06.mop"></resource>
+      <resource name="DF_CPS_P07.mop"></resource>
+      <resource name="DF_CPS_P08.mop"></resource>
+      <resource name="DF_PCC_B01.mop"></resource>
+    </dwarf_female>
+    <elf_male>
+      <resource name="EM_CPS_P01.mop"></resource>
+      <resource name="EM_CPS_P02.mop"></resource>
+      <resource name="EM_CPS_P03.mop"></resource>
+      <resource name="EM_CPS_P04.mop"></resource>
+      <resource name="EM_CPS_P05.mop"></resource>
+      <resource name="EM_CPS_P06.mop"></resource>
+      <resource name="EM_CPS_P07.mop"></resource>
+      <resource name="EM_CPS_P08.mop"></resource>
+      <resource name="EM_PCC_B01.mop"></resource>
+    </elf_male>
+    <elf_female>
+      <resource name="EF_CPS_P01.mop"></resource>
+      <resource name="EF_CPS_P02.mop"></resource>
+      <resource name="EF_CPS_P03.mop"></resource>
+      <resource name="EF_CPS_P04.mop"></resource>
+      <resource name="EF_CPS_P05.mop"></resource>
+      <resource name="EF_CPS_P06.mop"></resource>
+      <resource name="EF_CPS_P07.mop"></resource>
+      <resource name="EF_CPS_P08.mop"></resource>
+      <resource name="EF_PCC_B01.mop"></resource>
+    </elf_female>
+  </heads>
+  <hairs>
+    <human_male>
+      <resource name="hm_har_blda_0" cut="0234"></resource>
+      <resource name="hm_har_ha1a_0" cut="1"></resource>
+      <resource name="hm_har_ha2a_0" cut="1"></resource>
+      <resource name="hm_har_ha3a_0" cut="1"></resource>
+      <resource name="hm_har_hb1a_0" cut="1"></resource>
+      <resource name="hm_har_hb2a_0" cut="1"></resource>
+      <resource name="hm_har_hb3a_0" cut="1"></resource>
+      <resource name="hm_har_hb4a_0" cut="1"></resource>
+      <resource name="hm_har_hc1a_0" cut="1"></resource>
+      <resource name="hm_har_hc2a_0" cut="1"></resource>
+      <resource name="hm_har_hc3a_0" cut="1"></resource>
+      <resource name="hm_har_hc4a_0" cut="1"></resource>
+      <resource name="hm_har_hd1a_0" cut="1"></resource>
+      <resource name="hm_har_hd2a_0" cut="1"></resource>
+      <resource name="hm_har_hd3a_0" cut="1"></resource>
+      <resource name="hm_har_hd4a_0" cut="0"></resource>
+    </human_male>
+    <human_female>
+      <resource name="hf_har_blda_0" cut="2"></resource>
+      <resource name="hf_har_ha1a_0" cut="1"></resource>
+      <resource name="hf_har_ha2a_0" cut="1"></resource>
+      <resource name="hf_har_ha3a_0" cut="1"></resource>
+      <resource name="hf_har_ha4a_0" cut="1"></resource>
+      <resource name="hf_har_hb1a_0" cut="1"></resource>
+      <resource name="hf_har_hb2a_0" cut="1"></resource>
+      <resource name="hf_har_hb3a_0" cut="1"></resource>
+      <resource name="hf_har_hb4a_0" cut="1"></resource>
+      <resource name="hf_har_hc1a_0" cut="1"></resource>
+      <resource name="hf_har_hc2a_0" cut="1"></resource>
+      <resource name="hf_har_hc3a_0" cut="1"></resource>
+      <resource name="hf_har_hc4a_0" cut="1"></resource>
+      <resource name="hf_har_hd1a_0" cut="1"></resource>
+      <resource name="hf_har_hd2a_0" cut="1"></resource>
+      <resource name="hf_har_hd3a_0" cut="1"></resource>
+      <resource name="hf_har_hd4a_0" cut="1"></resource>
+    </human_female>
+    <dwarf_male>
+      <resource name="dm_har_blda_0" cut="0234"></resource>
+      <resource name="dm_har_ha1a_0" cut="1"></resource>
+      <resource name="dm_har_ha2a_0" cut="1"></resource>
+      <resource name="dm_har_ha3a_0" cut="1"></resource>
+      <resource name="dm_har_hb1a_0" cut="1"></resource>
+      <resource name="dm_har_hb2a_0" cut="1"></resource>
+      <resource name="dm_har_hb3a_0" cut="1"></resource>
+      <resource name="dm_har_hb4a_0" cut="1"></resource>
+      <resource name="dm_har_hc1a_0" cut="1"></resource>
+      <resource name="dm_har_hc2a_0" cut="1"></resource>
+      <resource name="dm_har_hc3a_0" cut="1"></resource>
+      <resource name="dm_har_hc4a_0" cut="1"></resource>
+      <resource name="dm_har_hd1a_0" cut="1"></resource>
+      <resource name="dm_har_hd2a_0" cut="1"></resource>
+      <resource name="dm_har_hd3a_0" cut="1"></resource>
+      <resource name="dm_har_hd4a_0" cut="0"></resource>
+    </dwarf_male>
+    <dwarf_female>
+      <resource name="df_har_blda_0" cut="02"></resource>
+      <resource name="df_har_ha1a_0" cut="1"></resource>
+      <resource name="df_har_ha2a_0" cut="1"></resource>
+      <resource name="df_har_ha3a_0" cut="1"></resource>
+      <resource name="df_har_ha4a_0" cut="1"></resource>
+      <resource name="df_har_hb1a_0" cut="1"></resource>
+      <resource name="df_har_hb2a_0" cut="1"></resource>
+      <resource name="df_har_hb3a_0" cut="1"></resource>
+      <resource name="df_har_hb4a_0" cut="1"></resource>
+      <resource name="df_har_hc1a_0" cut="1"></resource>
+      <resource name="df_har_hc2a_0" cut="1"></resource>
+      <resource name="df_har_hc3a_0" cut="1"></resource>
+      <resource name="df_har_hc4a_0" cut="1"></resource>
+      <resource name="df_har_hd1a_0" cut="1"></resource>
+      <resource name="df_har_hd2a_0" cut="1"></resource>
+      <resource name="df_har_hd3a_0" cut="1"></resource>
+      <resource name="df_har_hd4a_0" cut="1"></resource>
+    </dwarf_female>
+    <elf_male>
+      <resource name="em_har_blda_0" cut="0234"></resource>
+      <resource name="em_har_ha1a_0" cut="1"></resource>
+      <resource name="em_har_ha2a_0" cut="1"></resource>
+      <resource name="em_har_ha3a_0" cut="1"></resource>
+      <resource name="em_har_hb1a_0" cut="1"></resource>
+      <resource name="em_har_hb2a_0" cut="1"></resource>
+      <resource name="em_har_hb3a_0" cut="1"></resource>
+      <resource name="em_har_hb4a_0" cut="1"></resource>
+      <resource name="em_har_hc1a_0" cut="1"></resource>
+      <resource name="em_har_hc2a_0" cut="1"></resource>
+      <resource name="em_har_hc3a_0" cut="1"></resource>
+      <resource name="em_har_hc4a_0" cut="1"></resource>
+      <resource name="em_har_hd1a_0" cut="1"></resource>
+      <resource name="em_har_hd2a_0" cut="1"></resource>
+      <resource name="em_har_hd3a_0" cut="1"></resource>
+      <resource name="em_har_hd4a_0" cut="0"></resource>
+    </elf_male>
+    <elf_female>
+      <resource name="ef_har_blda_0" cut="02"></resource>
+      <resource name="ef_har_ha1a_0" cut="1"></resource>
+      <resource name="ef_har_ha2a_0" cut="1"></resource>
+      <resource name="ef_har_ha3a_0" cut="1"></resource>
+      <resource name="ef_har_ha4a_0" cut="1"></resource>
+      <resource name="ef_har_hb1a_0" cut="1"></resource>
+      <resource name="ef_har_hb2a_0" cut="1"></resource>
+      <resource name="ef_har_hb3a_0" cut="1"></resource>
+      <resource name="ef_har_hb4a_0" cut="1"></resource>
+      <resource name="ef_har_hc1a_0" cut="1"></resource>
+      <resource name="ef_har_hc2a_0" cut="1"></resource>
+      <resource name="ef_har_hc3a_0" cut="1"></resource>
+      <resource name="ef_har_hc4a_0" cut="1"></resource>
+      <resource name="ef_har_hd1a_0" cut="1"></resource>
+      <resource name="ef_har_hd2a_0" cut="1"></resource>
+      <resource name="ef_har_hd3a_0" cut="1"></resource>
+      <resource name="ef_har_hd4a_0" cut="1"></resource>
+    </elf_female>
+  </hairs>
+  <beards>
+    <human_male>
+      <resource name=""></resource>
+      <resource name="hm_brd_b1a_0"></resource>
+      <resource name="hm_brd_b2a_0"></resource>
+      <resource name="hm_brd_b3a_0"></resource>
+      <resource name="hm_brd_b4a_0"></resource>
+      <resource name="hm_brd_b5a_0"></resource>
+      <resource name="hm_brd_b6a_0"></resource>
+    </human_male>
+    <dwarf_male>
+      <resource name=""></resource>
+      <resource name="dm_brd_b1a_0"></resource>
+      <resource name="dm_brd_b2a_0"></resource>
+      <resource name="dm_brd_b3a_0"></resource>
+      <resource name="dm_brd_b4a_0"></resource>
+      <resource name="dm_brd_b5a_0"></resource>
+      <resource name="dm_brd_b6a_0"></resource>
+    </dwarf_male>
+  </beards>
+  <hair_colors>
+    <resource name="pt_har_wh1"></resource>
+    <resource name="pt_har_wh2"></resource>
+    <resource name="pt_har_wh3"></resource>
+    <resource name="pt_har_wh4"></resource>
+    <resource name="pt_har_wh5"></resource>
+    <resource name="pt_har_gy1"></resource>
+    <resource name="pt_har_gy2"></resource>
+    <resource name="pt_har_gy3"></resource>
+    <resource name="pt_har_gy4"></resource>
+    <resource name="pt_har_gy5"></resource>
+    <resource name="pt_har_bk1"></resource>
+    <resource name="pt_har_bk2"></resource>
+    <resource name="t3_har_blk"></resource>
+    <resource name="pt_har_bn1"></resource>
+    <resource name="pt_har_bn2"></resource>
+    <resource name="pt_har_bn3"></resource>
+    <resource name="pt_har_bn4"></resource>
+    <resource name="pt_har_bn5"></resource>
+    <resource name="pt_har_br1"></resource>
+    <resource name="pt_har_br2"></resource>
+    <resource name="pt_har_br3"></resource>
+    <resource name="pt_har_br4"></resource>
+    <resource name="pt_har_br5"></resource>
+    <resource name="pt_har_bk3"></resource>
+    <resource name="pt_har_bk4"></resource>
+    <resource name="pt_har_or1"></resource>
+    <resource name="pt_har_or2"></resource>
+    <resource name="pt_har_or3"></resource>
+    <resource name="pt_har_re1"></resource>
+    <resource name="pt_har_re2"></resource>
+    <resource name="pt_har_re3"></resource>
+    <resource name="pt_har_re4"></resource>
+    <resource name="pt_har_bk5"></resource>
+    <resource name="pt_har_re5"></resource>
+    <resource name="pt_har_re6"></resource>
+    <resource name="pt_har_re7"></resource>
+    <resource name="pt_har_bk6"></resource>
+    <resource name="pt_har_pv1"></resource>
+    <resource name="pt_har_pv2"></resource>
+    <resource name="pt_har_pv3"></resource>
+    <resource name="pt_har_pv4"></resource>
+    <resource name="pt_har_pv5"></resource>
+    <resource name="pt_har_bk7"></resource>
+    <resource name="pt_har_bl1"></resource>
+    <resource name="pt_har_bl2"></resource>
+    <resource name="pt_har_bl3"></resource>
+    <resource name="pt_har_bl4"></resource>
+    <resource name="pt_har_bl5"></resource>
+    <resource name="pt_har_bk8"></resource>
+    <resource name="t3_har_wht"></resource>
+    <resource name="t3_har_gry"></resource>
+    <resource name="t3_har_bln"></resource>
+    <resource name="t3_har_dbl"></resource>
+    <resource name="t3_har_org"></resource>
+    <resource name="t3_har_red"></resource>
+    <resource name="t3_har_lbr"></resource>
+    <resource name="t3_har_rbr"></resource>
+    <resource name="t3_har_dbr"></resource>
+  </hair_colors>
+  <skin_colors>
+    <resource name="pt_skn_p01"></resource>
+    <resource name="pt_skn_p02"></resource>
+    <resource name="pt_skn_p03"></resource>
+    <resource name="pt_skn_p04"></resource>
+    <resource name="pt_skn_p05"></resource>
+    <resource name="pt_skn_c01"></resource>
+    <resource name="pt_skn_c02"></resource>
+    <resource name="pt_skn_c03"></resource>
+    <resource name="pt_skn_c04"></resource>
+    <resource name="pt_skn_c05"></resource>
+    <resource name="pt_skn_t01"></resource>
+    <resource name="pt_skn_t02"></resource>
+    <resource name="pt_skn_t03"></resource>
+    <resource name="pt_skn_t04"></resource>
+    <resource name="pt_skn_t05"></resource>
+    <resource name="pt_skn_d01"></resource>
+    <resource name="pt_skn_d02"></resource>
+    <resource name="pt_skn_d03"></resource>
+    <resource name="pt_skn_d04"></resource>
+    <resource name="pt_skn_d05"></resource>
+    <resource name="pt_skn_b01"></resource>
+    <resource name="pt_skn_b02"></resource>
+    <resource name="pt_skn_b03"></resource>
+    <resource name="pt_skn_b04"></resource>
+    <resource name="pt_skn_b05"></resource>
+    <resource name="pt_skn_a01"></resource>
+    <resource name="pt_skn_a02"></resource>
+    <resource name="pt_skn_a03"></resource>
+    <resource name="pt_skn_a04"></resource>
+    <resource name="pt_skn_a05"></resource>
+    <resource name="pt_skn_i01"></resource>
+    <resource name="pt_skn_i02"></resource>
+    <resource name="pt_skn_i03"></resource>
+    <resource name="pt_skn_i04"></resource>
+    <resource name="pt_skn_i05"></resource>
+    <resource name="pt_skn_w01"></resource>
+    <resource name="pt_skn_w02"></resource>
+    <resource name="pt_skn_w03"></resource>
+    <resource name="pt_skn_w04"></resource>
+    <resource name="pt_skn_w05"></resource>
+    <resource name="t1_skn_001"></resource>
+    <resource name="t1_skn_002"></resource>
+    <resource name="t1_skn_004"></resource>
+    <resource name="t1_skn_003"></resource>
+    <resource name="t1_skn_006"></resource>
+    <resource name="t1_skn_005"></resource>
+    <resource name="t1_skn_007"></resource>
+  </skin_colors>
+  <eyes_colors>
+    <resource name="pt_eye_xcr"></resource>
+    <resource name="pt_eye_wht"></resource>
+    <resource name="pt_eye_lcr"></resource>
+    <resource name="pt_eye_crs"></resource>
+    <resource name="t3_eye_gry"></resource>
+    <resource name="pt_eye_dcr"></resource>
+    <resource name="pt_eye_xbl"></resource>
+    <resource name="pt_eye_cbl"></resource>
+    <resource name="t3_eye_ice"></resource>
+    <resource name="t3_eye_lbl"></resource>
+    <resource name="pt_eye_vbl"></resource>
+    <resource name="pt_eye_dvb"></resource>
+    <resource name="t3_eye_dbl"></resource>
+    <resource name="pt_eye_kvb"></resource>
+    <resource name="pt_eye_xgr"></resource>
+    <resource name="t3_eye_tea"></resource>
+    <resource name="pt_eye_cgr"></resource>
+    <resource name="pt_eye_vgr"></resource>
+    <resource name="t3_eye_grn"></resource>
+    <resource name="pt_eye_dvg"></resource>
+    <resource name="pt_eye_kvg"></resource>
+    <resource name="pt_eye_xam"></resource>
+    <resource name="pt_eye_cam"></resource>
+    <resource name="pt_eye_vam"></resource>
+    <resource name="pt_eye_dva"></resource>
+    <resource name="t3_eye_amb"></resource>
+    <resource name="pt_eye_kva"></resource>
+    <resource name="t3_eye_lbr"></resource>
+    <resource name="t3_eye_hzl"></resource>
+    <resource name="t3_eye_dbr"></resource>
+    <resource name="t3_eye_blk"></resource>
+    <resource name="pt_eye_xre"></resource>
+    <resource name="pt_eye_cre"></resource>
+    <resource name="pt_eye_vre"></resource>
+    <resource name="pt_eye_dvr"></resource>
+    <resource name="pt_eye_kvr"></resource>
+    <resource name="pt_eye_xvi"></resource>
+    <resource name="pt_eye_cvi"></resource>
+    <resource name="pt_eye_vvi"></resource>
+    <resource name="pt_eye_dvv"></resource>
+    <resource name="pt_eye_kvv"></resource>
+  </eyes_colors>
+  <eyes_makeup_colors>
+    <resource name=""></resource>
+    <resource name="t1_mue_bk1"></resource>
+    <resource name="t1_mue_bk2"></resource>
+    <resource name="t1_mue_bk3"></resource>
+    <resource name="t1_mue_bl1"></resource>
+    <resource name="t1_mue_bl2"></resource>
+    <resource name="t1_mue_bl3"></resource>
+    <resource name="t1_mue_gn1"></resource>
+    <resource name="t1_mue_gn2"></resource>
+    <resource name="t1_mue_gn3"></resource>
+    <resource name="t1_mue_gr1"></resource>
+    <resource name="t1_mue_gr2"></resource>
+    <resource name="t1_mue_gr3"></resource>
+    <resource name="t1_mue_or1"></resource>
+    <resource name="t1_mue_or2"></resource>
+    <resource name="t1_mue_or3"></resource>
+    <resource name="t1_mue_pi1"></resource>
+    <resource name="t1_mue_pi2"></resource>
+    <resource name="t1_mue_pi3"></resource>
+    <resource name="t1_mue_pu1"></resource>
+    <resource name="t1_mue_pu2"></resource>
+    <resource name="t1_mue_pu3"></resource>
+    <resource name="t1_mue_re1"></resource>
+    <resource name="t1_mue_re2"></resource>
+    <resource name="t1_mue_re3"></resource>
+    <resource name="t1_mue_ro1"></resource>
+    <resource name="t1_mue_ro2"></resource>
+    <resource name="t1_mue_ro3"></resource>
+    <resource name="t1_mue_te1"></resource>
+    <resource name="t1_mue_te2"></resource>
+    <resource name="t1_mue_te3"></resource>
+    <resource name="t1_mue_ye1"></resource>
+    <resource name="t1_mue_ye2"></resource>
+    <resource name="t1_mue_ye3"></resource>
+  </eyes_makeup_colors>
+  <blush_makeup_colors>
+    <resource name=""></resource>
+    <resource name="t1_mub_br1"></resource>
+    <resource name="t1_mub_br2"></resource>
+    <resource name="t1_mub_br3"></resource>
+    <resource name="t1_mub_or1"></resource>
+    <resource name="t1_mub_or2"></resource>
+    <resource name="t1_mub_or3"></resource>
+    <resource name="t1_mub_pi1"></resource>
+    <resource name="t1_mub_pi2"></resource>
+    <resource name="t1_mub_pi3"></resource>
+    <resource name="t1_mub_pu1"></resource>
+    <resource name="t1_mub_pu2"></resource>
+    <resource name="t1_mub_pu3"></resource>
+    <resource name="t1_mub_re1"></resource>
+    <resource name="t1_mub_re2"></resource>
+    <resource name="t1_mub_re3"></resource>
+    <resource name="t1_mub_ro1"></resource>
+    <resource name="t1_mub_ro2"></resource>
+    <resource name="t1_mub_ro3"></resource>
+    <resource name="t1_mub_ta1"></resource>
+    <resource name="t1_mub_ta2"></resource>
+    <resource name="t1_mub_ta3"></resource>
+    <resource name="t1_mub_te1"></resource>
+    <resource name="t1_mub_te2"></resource>
+    <resource name="t1_mub_te3"></resource>
+  </blush_makeup_colors>
+  <lip_makeup_colors>
+    <resource name=""></resource>
+    <resource name="t1_mul_bk1"></resource>
+    <resource name="t1_mul_bk2"></resource>
+    <resource name="t1_mul_bk3"></resource>
+    <resource name="t1_mul_br1"></resource>
+    <resource name="t1_mul_br2"></resource>
+    <resource name="t1_mul_br3"></resource>
+    <resource name="t1_mul_pi1"></resource>
+    <resource name="t1_mul_pi2"></resource>
+    <resource name="t1_mul_pi3"></resource>
+    <resource name="t1_mul_pu1"></resource>
+    <resource name="t1_mul_pu2"></resource>
+    <resource name="t1_mul_pu3"></resource>
+    <resource name="t1_mul_re1"></resource>
+    <resource name="t1_mul_re2"></resource>
+    <resource name="t1_mul_re3"></resource>
+    <resource name="t1_mul_ro1"></resource>
+    <resource name="t1_mul_ro2"></resource>
+    <resource name="t1_mul_ro3"></resource>
+    <resource name="t1_mul_ta1"></resource>
+    <resource name="t1_mul_ta2"></resource>
+    <resource name="t1_mul_ta3"></resource>
+    <resource name="t1_mul_te1"></resource>
+    <resource name="t1_mul_te2"></resource>
+    <resource name="t1_mul_te3"></resource>
+  </lip_makeup_colors>
+  <brow_stubble_colors>
+    <resource name="pt_stb_wh1"></resource>
+    <resource name="pt_stb_wh2"></resource>
+    <resource name="pt_stb_wh3"></resource>
+    <resource name="pt_stb_wh4"></resource>
+    <resource name="pt_stb_wh5"></resource>
+    <resource name="pt_stb_gy1"></resource>
+    <resource name="pt_stb_gy2"></resource>
+    <resource name="pt_stb_gy3"></resource>
+    <resource name="pt_stb_gy4"></resource>
+    <resource name="pt_stb_gy5"></resource>
+    <resource name="pt_stb_bk1"></resource>
+    <resource name="pt_stb_bk2"></resource>
+    <resource name="t1_stb_blk"></resource>
+    <resource name="pt_stb_bn1"></resource>
+    <resource name="pt_stb_bn2"></resource>
+    <resource name="pt_stb_bn3"></resource>
+    <resource name="pt_stb_bn4"></resource>
+    <resource name="pt_stb_bn5"></resource>
+    <resource name="pt_stb_br1"></resource>
+    <resource name="pt_stb_br2"></resource>
+    <resource name="pt_stb_br3"></resource>
+    <resource name="pt_stb_br4"></resource>
+    <resource name="pt_stb_br5"></resource>
+    <resource name="pt_stb_bk3"></resource>
+    <resource name="pt_stb_bk4"></resource>
+    <resource name="pt_stb_or1"></resource>
+    <resource name="pt_stb_or2"></resource>
+    <resource name="pt_stb_or3"></resource>
+    <resource name="pt_stb_re1"></resource>
+    <resource name="pt_stb_re2"></resource>
+    <resource name="pt_stb_re3"></resource>
+    <resource name="pt_stb_re4"></resource>
+    <resource name="pt_stb_bk5"></resource>
+    <resource name="pt_stb_re5"></resource>
+    <resource name="pt_stb_re6"></resource>
+    <resource name="pt_stb_re7"></resource>
+    <resource name="pt_stb_bk6"></resource>
+    <resource name="pt_stb_pv1"></resource>
+    <resource name="pt_stb_pv2"></resource>
+    <resource name="pt_stb_pv3"></resource>
+    <resource name="pt_stb_pv4"></resource>
+    <resource name="pt_stb_pv5"></resource>
+    <resource name="pt_stb_bk7"></resource>
+    <resource name="pt_stb_bl1"></resource>
+    <resource name="pt_stb_bl2"></resource>
+    <resource name="pt_stb_bl3"></resource>
+    <resource name="pt_stb_bl4"></resource>
+    <resource name="pt_stb_bl5"></resource>
+    <resource name="pt_stb_bk8"></resource>
+    <resource name="t1_stb_wht"></resource>
+    <resource name="t1_stb_gry"></resource>
+    <resource name="t1_stb_bln"></resource>
+    <resource name="t1_stb_dbl"></resource>
+    <resource name="t1_stb_org"></resource>
+    <resource name="t1_stb_red"></resource>
+    <resource name="t1_stb_lbr"></resource>
+    <resource name="t1_stb_rbr"></resource>
+    <resource name="t1_stb_dbr"></resource>
+  </brow_stubble_colors>
+  <crew_cut_colors>
+    <resource name="pt_stb_wh1"></resource>
+    <resource name="pt_stb_wh2"></resource>
+    <resource name="pt_stb_wh3"></resource>
+    <resource name="pt_stb_wh4"></resource>
+    <resource name="pt_stb_wh5"></resource>
+    <resource name="pt_stb_gy1"></resource>
+    <resource name="pt_stb_gy2"></resource>
+    <resource name="pt_stb_gy3"></resource>
+    <resource name="pt_stb_gy4"></resource>
+    <resource name="pt_stb_gy5"></resource>
+    <resource name="pt_stb_bk1"></resource>
+    <resource name="pt_stb_bk2"></resource>
+    <resource name="t1_stb_blk"></resource>
+    <resource name="pt_stb_bn1"></resource>
+    <resource name="pt_stb_bn2"></resource>
+    <resource name="pt_stb_bn3"></resource>
+    <resource name="pt_stb_bn4"></resource>
+    <resource name="pt_stb_bn5"></resource>
+    <resource name="pt_stb_br1"></resource>
+    <resource name="pt_stb_br2"></resource>
+    <resource name="pt_stb_br3"></resource>
+    <resource name="pt_stb_br4"></resource>
+    <resource name="pt_stb_br5"></resource>
+    <resource name="pt_stb_bk3"></resource>
+    <resource name="pt_stb_bk4"></resource>
+    <resource name="pt_stb_or1"></resource>
+    <resource name="pt_stb_or2"></resource>
+    <resource name="pt_stb_or3"></resource>
+    <resource name="pt_stb_re1"></resource>
+    <resource name="pt_stb_re2"></resource>
+    <resource name="pt_stb_re3"></resource>
+    <resource name="pt_stb_re4"></resource>
+    <resource name="pt_stb_bk5"></resource>
+    <resource name="pt_stb_re5"></resource>
+    <resource name="pt_stb_re6"></resource>
+    <resource name="pt_stb_re7"></resource>
+    <resource name="pt_stb_bk6"></resource>
+    <resource name="pt_stb_pv1"></resource>
+    <resource name="pt_stb_pv2"></resource>
+    <resource name="pt_stb_pv3"></resource>
+    <resource name="pt_stb_pv4"></resource>
+    <resource name="pt_stb_pv5"></resource>
+    <resource name="pt_stb_bk7"></resource>
+    <resource name="pt_stb_bl1"></resource>
+    <resource name="pt_stb_bl2"></resource>
+    <resource name="pt_stb_bl3"></resource>
+    <resource name="pt_stb_bl4"></resource>
+    <resource name="pt_stb_bl5"></resource>
+    <resource name="pt_stb_bk8"></resource>
+    <resource name="t1_stb_wht"></resource>
+    <resource name="t1_stb_gry"></resource>
+    <resource name="t1_stb_bln"></resource>
+    <resource name="t1_stb_dbl"></resource>
+    <resource name="t1_stb_org"></resource>
+    <resource name="t1_stb_red"></resource>
+    <resource name="t1_stb_lbr"></resource>
+    <resource name="t1_stb_rbr"></resource>
+    <resource name="t1_stb_dbr"></resource>
+  </crew_cut_colors>
+  <tattoo_colors>
+    <resource name="T1_TAT_BLK"></resource>
+    <resource name="T1_TAT_GRY"></resource>
+    <resource name="T1_TAT_BRN"></resource>
+    <resource name="T1_TAT_DBR"></resource>
+    <resource name="T1_TAT_GRN"></resource>
+    <resource name="T1_TAT_DGN"></resource>
+    <resource name="T1_TAT_BLU"></resource>
+    <resource name="T1_TAT_DBL"></resource>
+    <resource name="T1_TAT_PUR"></resource>
+    <resource name="T1_TAT_DPU"></resource>
+    <resource name="T1_TAT_RED"></resource>
+    <resource name="T1_TAT_DRD"></resource>
+    <resource name="T1_TAT_ORG"></resource>
+    <resource name="T1_TAT_YEL"></resource>
+    <resource name="T1_TAT_PNK"></resource>
+  </tattoo_colors>
+  <tattoos>
+    <resource name="uh_tat_av1_0t"></resource>
+    <resource name="uh_tat_av2_0t"></resource>
+    <resource name="uh_tat_av3_0t"></resource>
+    <resource name="uh_tat_da1_0t"></resource>
+    <resource name="uh_tat_da2_0t"></resource>
+    <resource name="uh_tat_da3_0t"></resource>
+    <resource name="uh_tat_dw1_0t"></resource>
+    <resource name="uh_tat_dw2_0t"></resource>
+    <resource name="uh_tat_p01_0t"></resource>
+  </tattoos>
+  <skins>
+    <resource name="uh_hed_fema_0d"></resource>
+    <resource name="uh_hed_elfa_0d"></resource>
+    <resource name="uh_hed_kida_0d"></resource>
+    <resource name="uh_hed_masa_0d"></resource>
+    <resource name="uh_hed_dwfa_0d"></resource>
+    <resource name="uh_hed_quna_0d"></resource>
+  </skins>
+</morph_config>
